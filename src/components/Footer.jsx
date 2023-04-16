@@ -12,7 +12,7 @@ const Footer = () => {
                     < FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://linkedin.com',
+            href: 'https://www.linkedin.com/in/tejas-patel-509343246/',
         },
         {
             id: 2,
