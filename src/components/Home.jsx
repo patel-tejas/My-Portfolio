@@ -17,7 +17,7 @@ const Home = () => {
           I'm a Full Stack Developer
         </h2>
         <p className="text-gray-500 py-4 max-w-md">
-          Currently I am learning web development using MERN technology. I am also familiar with data structures and algorithms. I am trying to make a firm grip in backend as well as frontend specially in Tailwind CSS.
+         As a skilled software engineer working towards development of web-apps through the use of modern framework- NextJS. Explore my latest projects and articles, showcasing my expertise in React.js and web development.
         </p>
 
           <div>
