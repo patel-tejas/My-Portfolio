@@ -1,7 +1,9 @@
 import React from 'react'
 import { TbCloudDownload } from 'react-icons/tb'
 
-import HeroImage from "../assets/heroImage.jpg"
+// import HeroImage from "../assets/heroImage.jpg"
+
+import HeroImage from "../assets/pfp2.png"
 
 const Home = () => {
   return (
